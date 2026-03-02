@@ -17,8 +17,6 @@ nvidia-ml-risk-modelling/
 │
 ├── scripts/
 │   ├── Risk Report/
-│   │   └── (Generated PDF risk reports)
-│   │
 │   ├── risk_visualization.py
 │   └── risk_report.py
 │
